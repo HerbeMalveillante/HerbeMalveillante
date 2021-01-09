@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Python, Data science**
 
-- 📫 How to reach me **herbemalveillante@gmail.com**
+- 📫 You can reach me here : **herbemalveillante@gmail.com**
 
-- ⚡ Fun fact **I'm still learning, sorry if I write garbage**
+**I'm still learning, sorry if I write garbage**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
