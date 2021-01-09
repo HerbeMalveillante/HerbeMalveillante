@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Herbe Malveillante</h1>
+<h1 align="center">Herbe Malveillante</h1>
 <h3 align="center">I'm doing funny python stuff and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herbemalveillante&label=Profile%20views&color=0e75b6&style=flat" alt="herbemalveillante" /> </p>
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/p4co3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="p4co3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc0qaws1gcm8_crloptlgnha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc0qaws1gcm8_crloptlgnha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc0qaws1gcm8_crloptlgnha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
