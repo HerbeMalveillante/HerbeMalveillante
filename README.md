@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbemalveillante" alt="herbemalveillante" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/p4co3" target="blank"><img src="https://img.shields.io/twitter/follow/p4co3?logo=twitter&style=for-the-badge" alt="p4co3" /></a> </p>
 
 - 🔭 I’m currently working on [MMOBOT](https://github.com/HerbeMalveillante/MMOBOT)
 
