@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Herbe Malveillante</title>
-    <link>http://example.org/tags/index/</link>
+    <link>https://herbemalveillante.github.io/tags/index/</link>
     <description>Recent content in index on Herbe Malveillante</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
     <webMaster>herbemalveillante@gmail.com (Herbe Malveillante)</webMaster>
     <copyright>&amp;copy;{year} Herbe Malveillante, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://herbemalveillante.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/posts/</link>
+        <link>https://herbemalveillante.github.io/posts/</link>
         <pubDate>Thu, 11 Feb 2021 20:09:40 +0100</pubDate>
         <author>herbemalveillante@gmail.com (Herbe Malveillante)</author>
         
-        <guid>http://example.org/posts/</guid>
+        <guid>https://herbemalveillante.github.io/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

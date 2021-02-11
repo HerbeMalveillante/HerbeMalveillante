@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Herbe Malveillante</title>
-    <link>http://example.org/</link>
+    <link>https://herbemalveillante.github.io/</link>
     <description>Recent content on Herbe Malveillante</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year} Herbe Malveillante, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 11 Feb 2021 20:09:40 +0100</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://herbemalveillante.github.io/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -43,17 +43,17 @@
       
       <item>
         <title>Coucou Les Potos</title>
-        <link>http://example.org/posts/coucou-les-potos/</link>
+        <link>https://herbemalveillante.github.io/posts/coucou-les-potos/</link>
         <pubDate>Thu, 11 Feb 2021 20:09:40 +0100</pubDate>
         <author>herbemalveillante@gmail.com (Herbe Malveillante)</author>
         <atom:modified>Thu, 11 Feb 2021 20:09:40 +0100</atom:modified>
-        <guid>http://example.org/posts/coucou-les-potos/</guid>
+        <guid>https://herbemalveillante.github.io/posts/coucou-les-potos/</guid>
         <description>yooo ça dit quoi les reufs
 ceci est un sample de post sur le site
 normalement je peux en rajouter très simplement !</description>
         
         <dc:creator>Herbe Malveillante</dc:creator>
-        <media:content url="http://example.orgimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://herbemalveillante.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
