@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Herbe Malveillante</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Herbe Malveillante</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>herbemalveillante@gmail.com (Herbe Malveillante)</managingEditor>
+    <webMaster>herbemalveillante@gmail.com (Herbe Malveillante)</webMaster>
+    <copyright>&amp;copy;{year} Herbe Malveillante, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 11 Feb 2021 20:09:40 +0100</lastBuildDate>
+    
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Coucou Les Potos</title>
+        <link>http://example.org/posts/coucou-les-potos/</link>
+        <pubDate>Thu, 11 Feb 2021 20:09:40 +0100</pubDate>
+        <author>herbemalveillante@gmail.com (Herbe Malveillante)</author>
+        <atom:modified>Thu, 11 Feb 2021 20:09:40 +0100</atom:modified>
+        <guid>http://example.org/posts/coucou-les-potos/</guid>
+        <description>yooo ça dit quoi les reufs
+ceci est un sample de post sur le site
+normalement je peux en rajouter très simplement !</description>
+        
+        <dc:creator>Herbe Malveillante</dc:creator>
+        <media:content url="http://example.orgimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>meta</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

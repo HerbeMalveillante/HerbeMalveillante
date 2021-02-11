@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-02-11T20:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/coucou-les-potos/</loc>
+    <lastmod>2021-02-11T20:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/meta/</loc>
+    <lastmod>2021-02-11T20:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-02-11T20:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-02-11T20:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/article/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/misc/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/article/article_any_folder_name_1/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/</loc>
+  </url>
+  
+</urlset>
