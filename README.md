@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [MMOBOT](https://github.com/HerbeMalveillante/MMOBOT)
 
-- 🌱 I’m currently learning **Python, Data science**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
 - 📫 You can reach me here : **herbemalveillante@gmail.com**
 
