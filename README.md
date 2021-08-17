@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/p4co3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png" alt="p4co3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/YouTube_icon.png" alt="uc0qaws1gcm8_crloptlgnha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/640px-YouTube_icon_%282013-2017%29.png" alt="uc0qaws1gcm8_crloptlgnha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
