@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbemalveillante" alt="herbemalveillante" /></a> </p>
 
 
-- 🔭 I’m currently working on the NEAT reinforcement learning algorithm
+- 🔭 I’m currently working on my personal portefolio
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m currently learning **Python, Web development, Flutter/Dart**
 
 - 📫 You can reach me here : **herbemalveillante@gmail.com**, or on Discord : **HerbeMalveillante#3506**
 
