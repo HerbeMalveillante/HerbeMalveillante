@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my personal portefolio
 
-- 🌱 I’m currently learning **Python, Web development, Flutter/Dart**
+- 🌱 I’m currently learning **Python, Javascript, React Native, Discord.js**
 
 - 📫 You can reach me here : **herbemalveillante@gmail.com**, or on Discord : **HerbeMalveillante#3506**
 
