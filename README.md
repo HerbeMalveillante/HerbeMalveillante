@@ -1,9 +1,14 @@
 <h1 align="center">Herbe Malveillante</h1>
 <h3 align="center">I'm a 17yo french developer doing funny python stuff, Data Science and machine learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herbemalveillante&label=Profile%20views&color=0e75b6&style=flat" alt="herbemalveillante" /> </p>
+![profile views](https://komarev.com/ghpvc/?username=herbemalveillante&label=Profile%20views&color=0e75b6&style=flat)
+![youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UC0qAWS1GcM8_cRLoPtLgNHA?style=social)
+![twitter subscribers](https://img.shields.io/twitter/follow/P4CO3?style=social)
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbemalveillante" alt="herbemalveillante" /></a> </p>
+
 
 
 - 🔭 I’m currently working on my personal portefolio
