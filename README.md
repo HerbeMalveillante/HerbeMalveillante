@@ -35,5 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbemalveillante&" alt="herbemalveillante" /></p>
 
-.. image:: https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/b433bad7-2a24-43cd-83cc-96a1d1d9d132.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/b433bad7-2a24-43cd-83cc-96a1d1d9d132.png" /></a>
