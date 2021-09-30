@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herbemalveillante&show_icons=true&locale=en" alt="herbemalveillante" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbemalveillante&" alt="herbemalveillante" /></p>
+
+<figure><embed src="https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/18869342-ac97-4928-a822-6c0b7590a3ed.svg"></embed></figure>
