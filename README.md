@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/herbemalveillante/MMOBOT-V3">MMOBOT rebirth</a>
 
-- 🌱 I’m currently learning **Python, Javascript, React Native, Discord.js**
+- 🌱 I’m currently learning **Python, Javascript, FullStack Web Development**
 
 - 📫 You can reach me here : **herbemalveillante@gmail.com**, or on Discord : **HerbeMalveillante#3506**
 
