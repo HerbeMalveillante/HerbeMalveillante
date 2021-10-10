@@ -1,5 +1,5 @@
 <h1 align="center">Herbe Malveillante</h1>
-<h3 align="center">I'm a 17yo french developer doing funny python stuff, Data Science and machine learning</h3>
+<h3 align="center">I'm a 17yo french developer doing funny python stuff, web programming and artificial intelligence </h3>
 
 ![profile views](https://komarev.com/ghpvc/?username=herbemalveillante&label=Profile%20views&color=0e75b6&style=flat)
 ![youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UC0qAWS1GcM8_cRLoPtLgNHA?style=social)
