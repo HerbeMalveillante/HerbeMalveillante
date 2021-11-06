@@ -1,33 +1,51 @@
-<h1 align="center">Herbe Malveillante</h1>
-<h3 align="center">I'm a 17yo french developer doing funny python stuff, web programming and artificial intelligence </h3>
+<h2>Hi 👋 , I'm HerbeMalveillante, a 17yo french developer.</h2>
+
+<hr>
 
 ![profile views](https://komarev.com/ghpvc/?username=herbemalveillante&label=Profile%20views&color=0e75b6&style=flat)
-![youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UC0qAWS1GcM8_cRLoPtLgNHA?style=social)
-![twitter subscribers](https://img.shields.io/twitter/follow/P4CO3?style=social)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbemalveillante" alt="herbemalveillante" /></a> </p>
+<details>
+<summary><b>📈 Check out my stats !</b></summary>
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HerbeMalveillante&show_icons=true&theme=dark">
 
-- 🔭 I’m currently working on <a href="https://github.com/herbemalveillante/MMOBOT-V3">MMOBOT rebirth</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=HerbeMalveillante&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbeMalveillante&hide_border=false&title_color=C9D1D9&text_color=8B948D&layout=compact&bg_color=0D1117&theme=dark">
 
-- 🌱 I’m currently learning **Python, Javascript, FullStack Web Development**
+<img src="https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/b433bad7-2a24-43cd-83cc-96a1d1d9d132.png"/>
+</details>
 
-- 📫 You can reach me here : **herbemalveillante@gmail.com**, or on Discord : **HerbeMalveillante#3506**
+<details>
+<summary><b>📩 Contact me</b></summary
+<ul>
+<li>💬 Discord : <code>HerbeMalveillante#3259</code> </li>
+<li>🦜 Twitter : <a href="https://twitter.com/P4CO3">@P4CO3</a></li>
+<li>🎥 Youtube : <a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA">HerbeMalveillante</a></li>
+</ul> 
 
-- 🔗 Visit my website : <a href="<https://herbemalveillante.com>">https://herbemalveillante.com</a>
+</details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/p4co3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png" alt="p4co3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/640px-YouTube_icon_%282013-2017%29.png" alt="uc0qaws1gcm8_crloptlgnha" height="30" width="40" /></a>
-</p>
+<b>Visit my website : <a href="https://herbemalveillante.com/">herbemalveillante.com</a></b>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herbemalveillante&show_icons=true&locale=en&layout=compact" alt="herbemalveillante" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herbemalveillante&show_icons=true&locale=en" alt="herbemalveillante" /></p>
+<h2>📚 My skills</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbemalveillante&" alt="herbemalveillante" /></p>
+<p><b>🦾 Programming Languages : </b>Python, HTML, CSS, JavaScript</p>
+<p><b>🐍 Python Librairies : </b>Discord API, Tweepy, Numpy, MatplotLib, etc.</p>
+<p><b>💾 Databases : </b>SQL, TinyDB</p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/b433bad7-2a24-43cd-83cc-96a1d1d9d132.png" /></a>
+I'm currently learning React.js, TailwindCSS, and more.
+
+
+<hr>
+
+<h2>🚩 My projects</h2>
+
+All my projects can be found on this GitHub page, but here are my favorite ones :
+
+<ul>
+<li><a href="https://github.com/">MMOBOT</a> - An immersive MMORPG built in Discord.</li>
+<li><a href="https://github.com/HerbeMalveillante/flappybirdAI">Flappy Bird AI</a> - An implementation of the NEAT algorithm allwowing an agent to play Flappy Bird perfecly.</li>
+<li><a href="https://discord.gg/pokedraco">PokeBot</a> - An advanced Discord bot used for moderation in YT <a href="https://www.youtube.com/channel/UCGogCYmJUnrGw65rgYbxsgg">PokeDraco</a>'s server. (not open source)</li>
+</ul>
