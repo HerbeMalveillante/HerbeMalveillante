@@ -1,4 +1,4 @@
-### Hi 👋 , I'm HerbeMalveillante, a 17yo french developer.
+<h2>Hi 👋 , I'm HerbeMalveillante, a 17yo french developer.</h2>
 
 <hr>
 
@@ -22,8 +22,30 @@
 <li>🎥 Youtube : <a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA">HerbeMalveillante</a></li>
 </ul> 
 
-<b>Check out my website : <a href="https://herbemalveillante.com/">herbemalveillante.com</a></b>
 </details>
+
+<b>Visit my website : <a href="https://herbemalveillante.com/">herbemalveillante.com</a></b>
+
+<hr>
+
+
+<h2>📚 My skills</h2>
+
+<p><b>🦾 Programming Languages : </b>Python, HTML, CSS, JavaScript</p>
+<p><b>🐍 Python Librairies : </b>Discord API, Tweepy, Numpy, MatplotLib, etc.</p>
+<p><b>💾 Databases : </b>SQL, TinyDB</p>
+
+I'm currently learning React.js, TailwindCSS, and more.
 
 
 <hr>
+
+<h2>🚩 My projects</h2>
+
+All my projects can be found on this GitHub page, but here are my favorite ones :
+
+<ul>
+<li><a href="https://github.com/">MMOBOT</a> - An immersive MMORPG built in Discord.</li>
+<li><a href="https://github.com/HerbeMalveillante/flappybirdAI">Flappy Bird AI</a> - An implementation of the NEAT algorithm allwowing an agent to play Flappy Bird perfecly.</li>
+<li><a href="https://discord.gg/pokedraco">PokeBot</a> - An advanced Discord bot used for moderation in YT <a href="https://www.youtube.com/channel/UCGogCYmJUnrGw65rgYbxsgg">PokeDraco</a>'s server. (not open source)</li>
+</ul>
