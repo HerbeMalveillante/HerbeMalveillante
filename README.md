@@ -5,11 +5,7 @@
 ![youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UC0qAWS1GcM8_cRLoPtLgNHA?style=social)
 ![twitter subscribers](https://img.shields.io/twitter/follow/P4CO3?style=social)
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herbemalveillante" alt="herbemalveillante" /></a> </p>
-
-
 
 - 🔭 I’m currently working on <a href="https://github.com/herbemalveillante/MMOBOT-V3">MMOBOT rebirth</a>
 
@@ -17,8 +13,7 @@
 
 - 📫 You can reach me here : **herbemalveillante@gmail.com**, or on Discord : **HerbeMalveillante#3506**
 
-- 🔗 Visit my website : <a href="https://herbemalveillante.com">https://herbemalveillante.com</a>
-
+- 🔗 Visit my website : <a href="<https://herbemalveillante.com>">https://herbemalveillante.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
