@@ -17,7 +17,7 @@
 <details>
 <summary><b>📩 Contact me</b></summary
 <ul>
-<li> Discord : `HerbeMalveillante#3259` </li>
+<li> Discord : ```HerbeMalveillante#3259``` </li>
 </ul> 
 
 
