@@ -35,7 +35,7 @@
 <p><b>🐍 Python Librairies : </b>Discord API, Tweepy, Numpy, MatplotLib, etc.</p>
 <p><b>💾 Databases : </b>SQL, TinyDB</p>
 
-I'm currently learning React.js, TailwindCSS, and more.
+I'm currently learning Svelte, Flask, TailwindCSS, and more.
 
 
 <hr>
