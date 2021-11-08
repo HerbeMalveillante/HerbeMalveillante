@@ -18,7 +18,7 @@
 <summary><b>📩 Contact me</b></summary
 <ul>
 <li>💬 Discord : <code>HerbeMalveillante#3259</code> </li>
-<li>🦜 Twitter : <a href="https://twitter.com/P4CO3">@P4CO3</a></li>
+<li>🦜 Twitter : <a href="https://twitter.com/HerbeMalveilla1">@HerbeMalveilla1</a></li>
 <li>🎥 Youtube : <a href="https://www.youtube.com/channel/UC0qAWS1GcM8_cRLoPtLgNHA">HerbeMalveillante</a></li>
 </ul> 
 
