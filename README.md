@@ -50,6 +50,7 @@ I'm currently learning Svelte, Flask, TailwindCSS, and more.
 All my projects can be found on this GitHub page, but here are my favorite ones :
 
 <ul>
+<li><a href="https://github.com/HerbeMalveillante/discord-ui">Discord-ui</a> - A copy of Discord's UI made with SvelteKit and TailwindCSS. Website can be viewed <a href="https://discord-ui-herbemalveillante.vercel.app">Here</a></li>
 <li><a href="https://github.com/">MMOBOT</a> - An immersive MMORPG built in Discord.</li>
 <li><a href="https://github.com/HerbeMalveillante/flappybirdAI">Flappy Bird AI</a> - An implementation of the NEAT algorithm allwowing an agent to play Flappy Bird perfecly.</li>
 <li><a href="https://discord.gg/pokedraco">PokeBot</a> - An advanced Discord bot used for moderation in YT <a href="https://www.youtube.com/channel/UCGogCYmJUnrGw65rgYbxsgg">PokeDraco</a>'s server. (not open source)</li>
