@@ -36,11 +36,11 @@
 
 <h2>📚 My skills</h2>
 
-<p><b>🦾 Programming Languages : </b>Python, HTML, CSS, JavaScript</p>
+<p><b>🦾 Programming Languages : </b>Python, HTML, CSS, JavaScript, Svelte, TailwindCSS</p>
 <p><b>🐍 Python Librairies : </b>Discord API, Tweepy, Numpy, MatplotLib, etc.</p>
 <p><b>💾 Databases : </b>SQL, TinyDB</p>
 
-I'm currently learning Svelte, Flask, TailwindCSS, and more.
+I'm currently learning Flask, Machine Learning and more.
 
 
 <hr>
