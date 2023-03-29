@@ -2,6 +2,9 @@
 You might also know me as <code>HerbeMalveillante</code>
 
 ![profile views](https://komarev.com/ghpvc/?username=herbemalveillante&label=Profile%20views&color=0e75b6&style=flat)
+
+<br>
+
 <img alt="fancy demarcation" src="static/line.png">
 
 <details>
