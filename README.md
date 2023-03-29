@@ -40,7 +40,7 @@ You might also know me as <code>HerbeMalveillante</code>
 <p><b>🐍 Python Librairies : </b>Discord API, Pygame, matplotlib, and any other commonly-used librairies</p>
 <p><b>💾 Databases : </b>SQL (+SQLite), TinyDB</p>
 
-<p>I'm currently <b>Flask</b>, <b>Construct 3</b>, and <b>RL Technologies (NEAT / PPO)</b></p>
+<p>I'm currently learning <b>Flask</b>, <b>Construct 3</b>, and <b>RL Technologies (NEAT / PPO)</b></p>
 
 <img alt="fancy demarcation" src="static/line.png">
 
