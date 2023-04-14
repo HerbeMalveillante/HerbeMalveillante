@@ -50,5 +50,5 @@ You might also know me as <code>HerbeMalveillante</code>
 
 <ul>
 <h3>- My <a href="https://herbemalveillante.github.io">website</a></h3>
-<h3>- Proximal Policy Optimisation</h3>
+<h3>- Flask</h3>
 </ul>
