@@ -6,7 +6,6 @@ You might also know me as <code>HerbeMalveillante</code>
 
 <br>
 
-<img alt="fancy demarcation" src="static/line.png">
 
 <details>
 <summary><b>📈 Check out my stats !</b></summary>
@@ -32,7 +31,6 @@ You might also know me as <code>HerbeMalveillante</code>
 
 <b>Visit my website : <a href="https://herbemalveillante.github.io/">herbemalveillante.github.io</a></b>
 
-<img alt="fancy demarcation" src="static/line.png">
 
 <h2>📚 My skills</h2>
 
@@ -42,7 +40,6 @@ You might also know me as <code>HerbeMalveillante</code>
 
 <p>I'm currently learning <b>Flask</b>, <b>Construct 3</b>, and <b>RL Technologies (NEAT / PPO)</b></p>
 
-<img alt="fancy demarcation" src="static/line.png">
 
 <h2>🚩 My projects</h2>
 
