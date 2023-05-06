@@ -49,6 +49,5 @@ You might also know me as <code>HerbeMalveillante</code>
 <h2>👷 What am I working on ATM ?</h2>
 
 <ul>
-<h3>- My <a href="https://herbemalveillante.github.io">website</a></h3>
-<h3>- Flask</h3>
+<h3> I'm on a <b>hiatus</b> </h3>
 </ul>
