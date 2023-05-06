@@ -49,5 +49,5 @@ You might also know me as <code>HerbeMalveillante</code>
 <h2>👷 What am I working on ATM ?</h2>
 
 <ul>
-<h3> I'm on a <b>hiatus</b> </h3>
+<h3> Nothing ATM : I'm prioritising school work for now </h3>
 </ul>
