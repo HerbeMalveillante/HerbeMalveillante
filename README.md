@@ -14,9 +14,6 @@ You might also know me as <code>HerbeMalveillante</code>
 [![trophy](https://github-profile-trophy.vercel.app/?username=HerbeMalveillante&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbeMalveillante&hide_border=false&title_color=C9D1D9&text_color=8B948D&layout=compact&bg_color=0D1117&theme=dark">
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/b433bad7-2a24-43cd-83cc-96a1d1d9d132.png" />
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@635b4c51-3103-41e6-85f8-609ac1cf13e0/fc12ba77-97b8-4a44-a26e-c2b6d14c266b.png" /></a>
-
 </details>
 
 <details>
@@ -38,7 +35,7 @@ You might also know me as <code>HerbeMalveillante</code>
 <p><b>🐍 Python Librairies : </b>Discord API, Pygame, matplotlib, and any other commonly-used librairies</p>
 <p><b>💾 Databases : </b>SQL (+SQLite), TinyDB</p>
 
-<p>I'm currently learning <b>Flask</b>, <b>Construct 3</b>, and <b>RL Technologies (NEAT / PPO)</b></p>
+<p>I'm currently learning <b>Game development with the Godot engine</b></p>
 
 
 <h2>🚩 My projects</h2>
