@@ -14,6 +14,8 @@ You might also know me as <code>HerbeMalveillante</code>
 [![trophy](https://github-profile-trophy.vercel.app/?username=HerbeMalveillante&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbeMalveillante&hide_border=false&title_color=C9D1D9&text_color=8B948D&layout=compact&bg_color=0D1117&theme=dark">
 
+<figure><embed src="https://wakatime.com/share/@malvherbe/3cf2fd1a-5c3d-4367-905e-e552192f57c5.svg"></embed></figure>
+
 </details>
 
 <details>
