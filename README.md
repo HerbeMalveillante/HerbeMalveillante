@@ -16,7 +16,7 @@ You might also know me as <code>HerbeMalveillante</code>
 </details>
 
 <details>
-<summary><b>📩 Contact me</b></summary
+<summary><b>📩 Contact me</b></summary>
 <ul>
 <li>💬 Discord : <code>Vergazon#5844</code></li>
 <li>🦜 Twitter : <a href="https://twitter.com/P4CO3">P4CO3</a></li>
@@ -25,12 +25,18 @@ You might also know me as <code>HerbeMalveillante</code>
 
 </details>
 
-## About me
+## About me 🦾
 
 I'm a french self-taught developer since I was 12 years old. I'm currently studying computer science at **Polytech'Tours**.
 
 I'm mainly using **Python** to develop relatively small projects about obscure topics I'm interested in. I also regularly use **HTML**, **CSS**, **JavaScript**, **TailwindCSS** and **Flask** to create websites.
 
-On top of that, I have some experience (at various levels) with **Java**, **Lua**, **SQL**, **Godot**, **LaTeX**, etc.
+I regularly use and am very experienced with **Pygame**, **Matplotlib**, **Flask**, **SQLite3**, and various other common Python libraries.
 
-I'm currently learning about **Game Development** with the objective of creating an indie colony management game.
+On top of that, I have experience (at various levels) with **Java**, **Lua**, **SQL**, **Godot**, **LaTeX**, **Git**, **Linux**, etc.
+
+I'm currently learning about **Game Development** with the goal of creating an indie colony management game.
+
+## Portfolio 🎨
+
+Most of my previous projects are **temporarily or permanently unavailable** on GitHub whilst I'm working on them, or cleaning them up. They will probably be available again **in the near future**.
