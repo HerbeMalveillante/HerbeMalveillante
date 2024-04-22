@@ -6,13 +6,13 @@ You might also know me as <code>HerbeMalveillante</code>
 
 <br>
 
-
 <details>
 <summary><b>📈 Check out my stats !</b></summary>
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HerbeMalveillante&show_icons=true&theme=dark">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HerbeMalveillante&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbeMalveillante&hide_border=false&title_color=C9D1D9&text_color=8B948D&layout=compact&bg_color=0D1117&theme=dark">
+
 </details>
 
 <details>
@@ -25,10 +25,12 @@ You might also know me as <code>HerbeMalveillante</code>
 
 </details>
 
-<h2>📚 My skills</h2>
+## About me
 
-<p><b>🦾 Programming Languages : </b>Python, TailwindCSS, and the web trio (HTML/CSS/JS)</p>
-<p><b>🐍 Python Librairies : </b>Discord API, Pygame, matplotlib, and any other commonly-used librairies</p>
-<p><b>💾 Databases : </b>SQL (+SQLite), TinyDB</p>
+I'm a french self-taught developer since I was 12 years old. I'm currently studying computer science at **Polytech'Tours**.
 
-<p>I'm currently learning <b>Game development with the Godot engine, Java</b></p>
+I'm mainly using **Python** to develop relatively small projects about obscure topics I'm interested in. I also regularly use **HTML**, **CSS**, **JavaScript**, **TailwindCSS** and **Flask** to create websites.
+
+On top of that, I have some experience (at various levels) with **Java**, **Lua**, **SQL**, **Godot**, **LaTeX**, etc.
+
+I'm currently learning about **Game Development** with the objective of creating an indie colony management game.
