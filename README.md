@@ -27,16 +27,6 @@ You might also know me as <code>HerbeMalveillante</code>
 
 ## About me 🦾
 
-I'm a french self-taught developer since I was 12 years old. I'm currently studying computer science at **Polytech'Tours**.
+I'm a french developer based in Tours, France.
 
-I'm mainly using **Python** to develop relatively small projects about obscure topics I'm interested in. I also regularly use **HTML**, **CSS**, **JavaScript**, **TailwindCSS** and **Flask** to create websites.
-
-I regularly use and am very experienced with **Pygame**, **Matplotlib**, **Flask**, **SQLite3**, and various other common Python libraries.
-
-On top of that, I have experience (at various levels) with **Java**, **Lua**, **SQL**, **Godot**, **LaTeX**, **Git**, **Linux**, etc.
-
-I'm currently learning about **Game Development** with the goal of creating an indie colony management game.
-
-## Portfolio 🎨
-
-Most of my previous projects are **temporarily or permanently unavailable** on GitHub whilst I'm working on them, or cleaning them up. They will probably be available again **in the near future**.
+I'm currently learning C and C++, and is interested in **Game and Graphics Development**.
