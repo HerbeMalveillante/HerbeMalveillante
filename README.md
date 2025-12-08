@@ -2,4 +2,4 @@
 
 I study computer science engineering at Polytech Tours, France.
 
-Currently learning web development and working on a POS application for school cafeterias.
+Currently learning web development and working on a Point Of Sale application for school cafeterias.
